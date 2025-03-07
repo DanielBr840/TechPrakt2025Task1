@@ -1,10 +1,10 @@
 div.user {
-    border:1px solid black;
-    padding:11px;
+    border:2px solid black;
+    padding:21px;
 }
 div.user div {
     cursor: pointer;
 }
 div.user.selected {
-    background-color: greenyellow;
+    background-color: yellow;
 }
